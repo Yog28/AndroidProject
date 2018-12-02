@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\22904560e44b5bce0f5b71c8027cb994\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8d135500ef93565d33403c6bb724b5d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\12f67106e1605adac099fd8d66e4e39b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\03142980b669324770aadd26f4061455\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fdd7e3ea0c535a857dadb9007b096d5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9e8ced2faa0e61420834a48accb00cda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\65b099c9024d1e0c4fa8e39cfdfd3828\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\533c1de185e4361255992789abe53bb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\996e659a6d1c37d3b660931e8f574b4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\60638837d1442fabd00ea4f2fc3410c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3c1da03eeede0ed2f0f8da982e89c073\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\69e8ad6ca8a749f02feff2c47a08b8af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54129068085b37ae262e310c8d676081\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\409b4650732b299ac2642f75a4e82a3f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f4b3ac11323e5cf6f48dbb4e68ca4e8c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7094b22efeb73be2babf4afce4d728cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1632b2b880ff0557e9fae1a978fd1de8\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\12f67106e1605adac099fd8d66e4e39b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\12f67106e1605adac099fd8d66e4e39b\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.yogintel.secondapp.MainActivity
+ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\22904560e44b5bce0f5b71c8027cb994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\22904560e44b5bce0f5b71c8027cb994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8d135500ef93565d33403c6bb724b5d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8d135500ef93565d33403c6bb724b5d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\12f67106e1605adac099fd8d66e4e39b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\12f67106e1605adac099fd8d66e4e39b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\03142980b669324770aadd26f4061455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\03142980b669324770aadd26f4061455\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fdd7e3ea0c535a857dadb9007b096d5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fdd7e3ea0c535a857dadb9007b096d5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9e8ced2faa0e61420834a48accb00cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9e8ced2faa0e61420834a48accb00cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\65b099c9024d1e0c4fa8e39cfdfd3828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\65b099c9024d1e0c4fa8e39cfdfd3828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\533c1de185e4361255992789abe53bb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\533c1de185e4361255992789abe53bb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\996e659a6d1c37d3b660931e8f574b4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\996e659a6d1c37d3b660931e8f574b4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\60638837d1442fabd00ea4f2fc3410c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\60638837d1442fabd00ea4f2fc3410c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3c1da03eeede0ed2f0f8da982e89c073\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3c1da03eeede0ed2f0f8da982e89c073\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\69e8ad6ca8a749f02feff2c47a08b8af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\69e8ad6ca8a749f02feff2c47a08b8af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54129068085b37ae262e310c8d676081\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54129068085b37ae262e310c8d676081\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\409b4650732b299ac2642f75a4e82a3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\409b4650732b299ac2642f75a4e82a3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f4b3ac11323e5cf6f48dbb4e68ca4e8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f4b3ac11323e5cf6f48dbb4e68ca4e8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7094b22efeb73be2babf4afce4d728cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7094b22efeb73be2babf4afce4d728cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1632b2b880ff0557e9fae1a978fd1de8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\YogIntel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1632b2b880ff0557e9fae1a978fd1de8\AndroidManifest.xml:20:5-44
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\SecondApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\SecondApp\app\src\main\AndroidManifest.xml

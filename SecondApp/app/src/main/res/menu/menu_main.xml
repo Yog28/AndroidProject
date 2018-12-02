@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.yogintel.secondapp.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_About"
+        android:title="@string/action"
+        app:showAsAction="ifRoom" />
+
+    <item
+      android:title=""
+        android:id="@+id/search_in"
+        android:icon="@drawable/magnify"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title=""
+        android:id="@+id/cart_in"
+        android:icon="@drawable/cart"
+        app:showAsAction="ifRoom"/>
+</menu>
